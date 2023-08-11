@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655258499 source:c:\users\xiaoyuer\onedrive\×ÀÃæ\ÂÒ\codework\testwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
